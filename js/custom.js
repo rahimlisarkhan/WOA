@@ -36,7 +36,7 @@
         // Owl Carousel
         var owl = $("#owl-team");
           owl.owlCarousel({
-            autoPlay: 6000,
+            autoPlay: 4000,
             items : 4,
             itemsDesktop : [1199,3],
             itemsDesktopSmall : [979,3],
