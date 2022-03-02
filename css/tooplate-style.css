@@ -183,13 +183,20 @@ a:hover, a:active, a:focus {
   background: #252525;
 }
 
+#team{
+  background-color:red;
+  /* height: 106px; */
+  height: 100vh;
+}
+
+
 .section-title {
   position: relative;
   padding-bottom: 22px;
 }
 
 .parallax-section {
-  background-attachment: fixed !important;
+  /* background-attachment: fixed !important; */
   background-size: cover !important;
 }
 
@@ -258,6 +265,7 @@ a:hover, a:active, a:focus {
 /*---------------------------------------
   MENU             
 -----------------------------------------*/
+
 
 @media screen and (max-width: 600px){
 .my-2{
